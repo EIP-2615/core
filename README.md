@@ -25,4 +25,5 @@ Both @kohshiba and @wighawag have created PoCs for both of these (see links belo
 ### Implementations
 
 - [@kohshiba's Original PoC](https://github.com/kohshiba/ERC-X)
-- [@wighawag's Registry PoC](https://github.com/wighawag/erc721-users)
+- [@wighawag's Lease PoC](https://github.com/wighawag/erc721-lease)
+- [@wighawag's Old Registry PoC](https://github.com/wighawag/erc721-users)
